@@ -31,7 +31,7 @@ U 1 1 5E485EAE
 P 1300 2200
 F 0 "P1" H 1405 3767 50  0000 C CNN
 F 1 "USB_C_Plug" H 1405 3676 50  0000 C CNN
-F 2 "Connector_USB:USB_C_Plug_Molex_105444" H 1450 2200 50  0001 C CNN
+F 2 "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles" H 1450 2200 50  0001 C CNN
 F 3 "http://www.usb.org/developers/docs/usb_31_033017.zip" H 1450 2200 50  0001 C CNN
 	1    1300 2200
 	1    0    0    -1  
