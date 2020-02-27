@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name silks)(type KiCad)(uri ${KIPRJMOD}/silks)(options "")(descr ""))
+)
